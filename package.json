@@ -28,7 +28,7 @@
   "dependencies": {
     "impromptu": "~0.2.3",
     "impromptu-git": "~0.1.6",
-    "impromptu-system": "~0.1.2"
+    "impromptu-system": "~0.1.4"
   },
   "devDependencies": {
     "mocha": "~1.8.2",
